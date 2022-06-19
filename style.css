@@ -1,0 +1,68 @@
+.text{
+    color: white;
+    margin-bottom: ;
+    
+}
+.text1 .text2{
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+    
+    
+}
+
+
+.column{
+    background-color: hsl(248, 39%, 49%);
+    padding: 10px;
+    margin-left: 23cm;
+    flex: 0;
+    border-radius: 10px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    
+}
+.column2{
+    font-size: x-small;
+
+}
+
+.input{
+    padding: 5px;
+    width: 90%;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    border-width: 1;
+    height: 25px;
+    
+    
+}
+.form{
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-left: 23cm;
+    flex: 0;
+    border-radius: 10px;
+    width: 300px;
+    
+}
+.button{
+    background-color: hsl(154, 59%, 51%);
+    padding: 10px;
+    border-color:whitesmoke;
+    border-radius: 10px;
+    color: white;
+    width: 285px;
+    
+    
+    
+}
+.footer{
+    font-size:x-small;
+}
+.footer1{
+    color: red;
+    font-size:small;
+}
